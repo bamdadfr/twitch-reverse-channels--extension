@@ -15,10 +15,10 @@ module.exports = {
             'artifactsDir': 'packages',
             'channel': 'listed',
         }],
-        // ['semantic-release-chrome', {
-        //     'extensionId': '',
-        //     'asset': 'twitch-reverse-channels--extension-${nextRelease.version}.zip',
-        // }],
+        ['semantic-release-chrome', {
+            'extensionId': 'ibihnhlidngpabcbomjepjnkhindhlkn',
+            'asset': 'twitch-reverse-channels--extension-${nextRelease.version}.zip',
+        }],
         ['@semantic-release/github', {
             'assets': [
                 'packages/twitch-reverse-channels--extension-${nextRelease.version}.xpi',

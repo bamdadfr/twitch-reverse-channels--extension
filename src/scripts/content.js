@@ -16,11 +16,11 @@ async function ContentOnLoad () {
 
         if (isLogged && sidebarLoaded) {
 
-            isReady = true
-
             const followedLayout = document.querySelector ('[aria-label="Followed Channels"]')
 
             enable (followedLayout)
+
+            isReady = true
 
         } else {
 
