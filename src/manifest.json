@@ -2,7 +2,7 @@
   "name": "Twitch Reverse Channels",
   "short_name": "twitch-reverse-channels--extension",
   "description": "Show channels in reverse order for Twitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "icons": {
     "512": "assets/icon-386.png"
