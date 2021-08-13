@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d2e5d0a-605e-4291-85bb-79ad8862b75f" name="Changes" comment="feat: init">
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/dependabot.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/semantic-release-yarn-with-build--onMondays-1030.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/semantic-release-yarn-with-build--onPush.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/yarn-upgrade--onMondays-1000.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/twitch-reverse-channels--extension.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.markdownlint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/prepare.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/release.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/twitch-flipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scripts/enable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/release.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/twitch-flipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +43,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -77,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628829530705</updated>
-      <workItem from="1628829532780" duration="4857000" />
+      <workItem from="1628829532780" duration="5895000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: init">
+      <created>1628834392737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628834392737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

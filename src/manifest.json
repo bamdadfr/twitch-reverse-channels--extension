@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "icons": {
-    "512": "assets/twitch-flipped.png"
+    "512": "assets/icon-386.png"
   },
   "content_scripts": [
     {
