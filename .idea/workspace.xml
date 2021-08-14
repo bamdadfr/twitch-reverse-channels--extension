@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d2e5d0a-605e-4291-85bb-79ad8862b75f" name="Changes" comment="perf: better icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/release.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/release.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/enable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/enable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628829530705</updated>
       <workItem from="1628829532780" duration="7507000" />
+      <workItem from="1628927174637" duration="483000" />
     </task>
     <task id="LOCAL-00001" summary="feat: init">
       <created>1628834392737</created>
@@ -91,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: init" />
