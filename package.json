@@ -1,6 +1,6 @@
 {
   "name": "twitch-reverse-channels--extension",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Show channels in reverse order for Twitch",
   "license": "MIT",
   "author": {
