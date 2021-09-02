@@ -9,12 +9,12 @@ module.exports = {
         ['@semantic-release/exec', {
             'prepareCmd': 'yarn build:prepare ${nextRelease.version} && yarn build',
         }],
-        ['semantic-release-firefox-add-on', {
-            'extensionId': '{efb65d38-d0a9-42ff-9025-2d26ee8c753f}',
-            'targetXpi': 'twitch-reverse-channels--extension-${nextRelease.version}.xpi',
-            'artifactsDir': 'packages',
-            'channel': 'listed',
-        }],
+        // ['semantic-release-firefox-add-on', {
+        //     'extensionId': '{efb65d38-d0a9-42ff-9025-2d26ee8c753f}',
+        //     'targetXpi': 'twitch-reverse-channels--extension-${nextRelease.version}.xpi',
+        //     'artifactsDir': 'packages',
+        //     'channel': 'listed',
+        // }],
         ['semantic-release-chrome', {
             'extensionId': 'ibihnhlidngpabcbomjepjnkhindhlkn',
             'asset': 'twitch-reverse-channels--extension-${nextRelease.version}.zip',
