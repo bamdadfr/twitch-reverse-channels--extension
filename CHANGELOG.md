@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.5...v1.0.6) (2021-09-02)
+
+
+### Performance Improvements
+
+* **CI:** disable firefox automatic release for manual authorization again ([65844cd](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/65844cd793137be2cba4bc45181f3d7a3b98ffbf))
+* **deps:** update to latest dependencies ([e4b7cda](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/e4b7cdad2ca1f965ffb5dff51a8421f29fd7a9d4))
+
 ## [1.0.5](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.4...v1.0.5) (2021-08-30)
 
 
