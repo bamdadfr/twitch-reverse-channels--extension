@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.9...v1.0.10) (2021-09-27)
+
+
+### Bug Fixes
+
+* **asfalte:** ⚙️ yarn-upgrade--onMondays-1000 ([1a62d5f](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/1a62d5fe119af139130daa5f53cf5b6d1d6d32ff))
+
 ## [1.0.9](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.8...v1.0.9) (2021-09-20)
 
 
