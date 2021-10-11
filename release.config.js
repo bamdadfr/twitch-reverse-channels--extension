@@ -14,7 +14,6 @@ module.exports = {
             'targetXpi': 'twitch-reverse-channels--extension-${nextRelease.version}.xpi',
             'artifactsDir': 'packages',
             'channel': 'listed',
-            'sourceDir': 'src',
         }],
         ['semantic-release-chrome', {
             'extensionId': 'ibihnhlidngpabcbomjepjnkhindhlkn',
