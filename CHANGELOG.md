@@ -1,3 +1,16 @@
+## [1.0.15](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.14...v1.0.15) (2021-10-11)
+
+
+### Bug Fixes
+
+* **ci:** remove unwanted `sourceDir` parameter ([c1054d1](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/c1054d15ea09a07bd21bed6c00726673171e81c9))
+* **ci:** set webpack for no minification ([b9b9fc1](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/b9b9fc1f000c203b1d4047751290f91bf7ed0ab6))
+
+
+### Performance Improvements
+
+* **set-watcher:** set interval variable in function scope ([9419fdd](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/9419fddf12715cd32e1a00fc9591d395e8e4c609))
+
 ## [1.0.14](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.13...v1.0.14) (2021-10-11)
 
 
