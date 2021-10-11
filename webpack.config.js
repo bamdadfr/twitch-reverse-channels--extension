@@ -14,6 +14,9 @@ module.exports = {
     'output': {
         'publicPath': '',
     },
+    'optimization': {
+        'minimize': false,
+    },
     'node': false,
     'plugins': [
         new CopyPlugin ({
