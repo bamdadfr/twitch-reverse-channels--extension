@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.13...v1.0.14) (2021-10-11)
+
+
+### Bug Fixes
+
+* **ci:** enable automatic firefox release with `sourceDir` parameter ([286ae1a](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/286ae1ae0e5978f61fc98a625b630cc1cd82c153))
+
 ## [1.0.13](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.12...v1.0.13) (2021-10-11)
 
 
