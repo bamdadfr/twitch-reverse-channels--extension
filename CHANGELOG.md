@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.15...v1.0.16) (2021-10-12)
+
+
+### Bug Fixes
+
+* **ci:** add minification back to webpack build (will have to manually upload source code) ([c6e29b6](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/c6e29b6854e74c958cfed7da5f116c1d1329e185))
+
 ## [1.0.15](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.14...v1.0.15) (2021-10-11)
 
 
