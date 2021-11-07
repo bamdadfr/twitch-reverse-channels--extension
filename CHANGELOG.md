@@ -1,3 +1,12 @@
+## [1.0.17](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.16...v1.0.17) (2021-11-07)
+
+
+### Performance Improvements
+
+* apply new code style ([fd6d9ea](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/fd6d9ea483f7a4c88a15e9ccb8560093d742539d))
+* apply new code style to configuration files ([98d1891](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/98d1891e8228d0a10461ab6c6248982277dbf197))
+* update dependencies ([4d1d65a](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/4d1d65a52d5f6fb59b18f9cc716e3298a234acf4))
+
 ## [1.0.16](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.15...v1.0.16) (2021-10-12)
 
 
