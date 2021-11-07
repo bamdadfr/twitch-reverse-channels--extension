@@ -1,3 +1,10 @@
+## [1.0.18](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.17...v1.0.18) (2021-11-07)
+
+
+### Performance Improvements
+
+* move to better code structure ([c489df5](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/c489df53d1337533943fa3c597b553615a164525))
+
 ## [1.0.17](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.16...v1.0.17) (2021-11-07)
 
 
