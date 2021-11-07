@@ -1,5 +1,5 @@
-import { setWatcher } from '../utils/set-watcher';
+import { app } from '../app/app';
 
 window.addEventListener ('load', () => {
-  setWatcher ();
+  app.init ();
 });
