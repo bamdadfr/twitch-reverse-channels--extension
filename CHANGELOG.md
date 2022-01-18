@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.18...v1.0.19) (2022-01-18)
+
+
+### Performance Improvements
+
+* update deps ([46e79c1](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/46e79c17b3c7e5119d6e274f193c6d251b6d8190))
+
 ## [1.0.18](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.17...v1.0.18) (2021-11-07)
 
 
