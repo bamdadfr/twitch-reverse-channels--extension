@@ -20,7 +20,7 @@ Twitch Reverse Channels
 
 **[<img height=30 src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Internet-chrome-icon.png">Chrome](https://chrome.google.com/webstore/detail/twitch-reverse-channels/ibihnhlidngpabcbomjepjnkhindhlkn)**
 
-**[<img height=30 src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Internet-firefox-icon.png">Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch-reverse-channels)**
+**[<img height=30 src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Internet-firefox-icon.png">Firefox](https://addons.mozilla.org/firefox/addon/twitch-reverse-channels)**
 
 ## 📖 Features
 
