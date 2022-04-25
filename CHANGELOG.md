@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.19...v1.1.0) (2022-04-25)
+
+
+### Features
+
+* Add typescript configuration ([ac5568a](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/ac5568a1d5d59835c1361fa91af438c5e519cd57))
+* Add Typescript dependencies ([3686ab7](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/3686ab754e59b15b97f21151d70b21ee01f8b61d))
+* Add typescript webpack configuration ([2f014a7](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/2f014a794c2d1178dc7d3a80c07d82d36cea9706))
+* Migrate code to typescript + Fix navigation position on redraw ([ad4d753](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/ad4d753a8636f670112b21f648ba7bddcfb9349c))
+
+
+### Performance Improvements
+
+* **Deps:** Update to latest ([a97263d](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/a97263d02cd1d9b9eb8c0357c91d67e952b35372))
+
 ## [1.0.19](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.18...v1.0.19) (2022-01-18)
 
 
