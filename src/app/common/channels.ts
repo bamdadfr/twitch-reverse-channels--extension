@@ -1,5 +1,6 @@
 import {Twitch} from './twitch';
 import {observeElement} from '../utils/observe-element';
+import {DEFAULT_TIMEOUT} from '../constants';
 
 export class Channels {
   private readonly selector = '[aria-label="Followed Channels"]';
@@ -9,13 +10,18 @@ export class Channels {
   private readonly content: HTMLDivElement;
 
   private constructor() {
-    this.node = document.querySelector(this.selector);
-    this.content = this.node.children[1] as HTMLDivElement;
+    try {
+      this.node = document.querySelector(this.selector);
+      this.content = this.node.children[1] as HTMLDivElement;
 
-    this.observeContent();
-    this.applyContentStyles();
+      this.observeContent();
+      this.applyContentStyles();
 
-    this.arrangeNavigation();
+      this.arrangeNavigation();
+    } catch (error) {
+      // retry
+      setTimeout(() => new Channels(), DEFAULT_TIMEOUT);
+    }
   }
 
   private get navigation(): HTMLDivElement {
@@ -24,7 +30,7 @@ export class Channels {
 
   public static init(): Channels {
     if (!Twitch.isReady) {
-      setTimeout(this.init, 1000);
+      setTimeout(this.init, DEFAULT_TIMEOUT);
       return;
     }
 
