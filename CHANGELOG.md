@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.1.0...v1.2.0) (2022-08-06)
+
+
+### Bug Fixes
+
+* Retry on DOM selection error ([37a2233](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/37a2233f5e6fc1c2e78f098e24ac025ad15433a4))
+
+
+### Features
+
+* Update dependencies to latest ([88bb3c9](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/commit/88bb3c92072ce1127d085db713b855be8df360ff))
+
 # [1.1.0](https://github.com/bamdadsabbagh/twitch-reverse-channels--extension/compare/v1.0.19...v1.1.0) (2022-04-25)
 
 
